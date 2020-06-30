@@ -35,6 +35,7 @@
 					   quickrun
 					   smex
 					   treemacs
+					   rust-mode
 					   ) "Default packages")
 ;; 防止被autoremove删除
 (setq package-selected-packages xzh/packages)

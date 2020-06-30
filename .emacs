@@ -15,6 +15,9 @@
    (quote
 	("174502267725776b47bdd2d220f035cae2c00c818765b138fea376b2cdc15eb6" default)))
  '(initial-frame-alist (quote ((fullscreen . maximized))))
+ '(package-selected-packages
+   (quote
+	(rust-mode badwolf-theme company company-c-headers company-irony company-irony-c-headers company-jedi counsel-gtags diminish doom-modeline flycheck ggtags grip-mode gtags hungry-delete imenu-list irony lua-mode markdown-mode markdown-mode+ quickrun smex treemacs)))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil))
